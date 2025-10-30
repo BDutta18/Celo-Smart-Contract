@@ -69,7 +69,7 @@ contract SimpleCounter {
         return count;
     }
 }
-
+```
 
 ## 🛠 How to Use
 
