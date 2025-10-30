@@ -38,7 +38,7 @@ This smart contract maintains a counter on the blockchain that:
 
 ## 💻 Smart Contract Code
 
-solidity
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
